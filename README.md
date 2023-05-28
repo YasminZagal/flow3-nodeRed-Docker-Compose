@@ -65,10 +65,11 @@ A continuación puede observarse una vista previa del resultado de este flow.
 
 ![](https://github.com/YasminZagal/flow3-nodeRed-Docker-Compose/blob/main/Capturas/Captura%20desde%202023-05-28%2013-45-23.png)
 ![](https://github.com/YasminZagal/flow3-nodeRed-Docker-Compose/blob/main/Capturas/Captura%20desde%202023-05-28%2013-45-34.png)
+![](https://github.com/YasminZagal/flow3-nodeRed-Docker-Compose/blob/main/Capturas/Captura%20desde%202023-05-28%2013-46-25.png)}
 
 ## Evidencias
 
-![]()
+
 
 # Notas
 - Este repositorio cuenta con las instrucciones para crear el flow pero también incluye el archivo JSON resultante, así que solo tienes que importarlo a nodeRed.
