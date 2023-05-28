@@ -64,7 +64,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 A continuación puede observarse una vista previa del resultado de este flow.
 
 ![](https://github.com/YasminZagal/flow3-nodeRed-Docker-Compose/blob/main/Capturas/Captura%20desde%202023-05-28%2013-45-23.png)
-![]()
+![](https://github.com/YasminZagal/flow3-nodeRed-Docker-Compose/blob/main/Capturas/Captura%20desde%202023-05-28%2013-45-34.png)
 
 ## Evidencias
 
